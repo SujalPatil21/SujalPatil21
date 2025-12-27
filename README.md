@@ -35,4 +35,5 @@ Currently focused on backend development, system fundamentals, and real-world en
 ## 📫 Contact
 
 - **GitHub:** [SujalPatil21](https://github.com/SujalPatil21)
+- **LinkedIn:** [Sujal Patil](https://www.linkedin.com/in/sujalbpatil21)
 - **Email:** sujalpatil21@gmail.com
