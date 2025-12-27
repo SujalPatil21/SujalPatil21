@@ -29,15 +29,6 @@ Currently focused on backend development, system fundamentals, and real-world en
 
 ---
 
-## 📂 Featured Project
-
-### Backend Project  
-A production-oriented backend system built with Spring Boot, evolving from REST + SQL to NoSQL and event-driven architecture.
-
-👉 https://github.com/SujalPatil21/backend-project
-
----
-
 ## 📫 Contact
 
 - **GitHub:** [SujalPatil21](https://github.com/SujalPatil21)
