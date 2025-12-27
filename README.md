@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sujal 👋
 
-<!--
-**SujalPatil21/SujalPatil21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused engineering student with a strong interest in building scalable, production-grade systems.
 
-Here are some ideas to get you started:
+Currently focused on backend development, system fundamentals, and real-world engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Backend development using Spring Boot
+- REST API design and implementation
+- SQL and NoSQL databases
+- Exploring event-driven systems with Kafka
+- Writing clean, maintainable backend code
+
+---
+
+## 📂 Featured Project
+
+### Backend Project  
+A production-oriented backend system built with Spring Boot, evolving from REST + SQL to NoSQL and event-driven architecture.
+
+👉 https://github.com/SujalPatil21/backend-project
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [SujalPatil21](https://github.com/SujalPatil21)
+- **Email:** sujalpatil21@gmail.com
