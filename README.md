@@ -1,9 +1,10 @@
-# README
+<div align="center">
 
-## Hi, I'm Sujal 👋  
-Backend-focused engineering student with a strong interest in building scalable, production-grade systems.
+# Hi, I'm Sujal 👋  
+Backend-focused engineering student building scalable, production-grade systems.  
+Focused on backend development, system fundamentals, and real-world engineering practices.
 
-Currently focused on backend development, system fundamentals, and real-world engineering practices.
+</div>
 
 ---
 
@@ -29,10 +30,11 @@ Currently focused on backend development, system fundamentals, and real-world en
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 ---
 
-##  Current Focus  
+## 🚀 Current Focus  
 - Backend development using Spring Boot  
 - REST API design and implementation  
 - Working with SQL and NoSQL databases  
@@ -41,7 +43,12 @@ Currently focused on backend development, system fundamentals, and real-world en
 
 ---
 
-## 📫 Contact  
-- **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
-- **LinkedIn**: [Sujal Patil](https://www.linkedin.com/in/sujalbpatil21)  
-- **Email**: sujalpatil21@gmail.com  
+## 🌐 Social Network  
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SujalPatil21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujalbpatil21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sujalpatil21@gmail.com)
+
+</div>
