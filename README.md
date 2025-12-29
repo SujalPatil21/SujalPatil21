@@ -32,7 +32,7 @@ Currently focused on backend development, system fundamentals, and real-world en
 
 ---
 
-## 🚀 Current Focus  
+##  Current Focus  
 - Backend development using Spring Boot  
 - REST API design and implementation  
 - Working with SQL and NoSQL databases  
