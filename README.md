@@ -8,6 +8,14 @@ Focused on backend development, system fundamentals, and real-world engineering 
 
 ---
 
+## Preview
+
+[![Portfolio Preview](preview.png)](https://sujalpatil21.github.io/Protfolio-Website/)
+
+---
+
+## 🔧 Technologies
+
 ## 🔧 Technologies  
 
 ### Languages  
