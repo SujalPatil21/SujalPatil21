@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sujal  
+# Hi, I'm Sujal👋 
 Backend-focused engineering student building scalable, production-grade systems.  
 Focused on backend development, system fundamentals, and real-world engineering practices.
 
