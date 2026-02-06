@@ -1,19 +1,12 @@
 <div align="center">
 
-# Hi, I'm Sujal 👋  
+# Hi, I'm Sujal  
 Backend-focused engineering student building scalable, production-grade systems.  
 Focused on backend development, system fundamentals, and real-world engineering practices.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-38bdf8?style=flat&logo=vercel&logoColor=white)](https://sujalpatil21.github.io/Protfolio-Website/)
+
 </div>
-
-## Portfolio Website (Click to Open)
-
-<p align="center">
-  <a href="https://sujalpatil21.github.io/Protfolio-Website/">
-    <img src="preview.png" width="800">
-  </a>
-</p>
-
 
 ## 🔧 Technologies  
 
