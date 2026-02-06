@@ -6,10 +6,13 @@ Focused on backend development, system fundamentals, and real-world engineering 
 
 </div>
 
+## Portfolio Website (Click to Open)
 
-## Protfolio Website (Click To Open)
-
-[![Portfolio Preview](preview.png)](https://sujalpatil21.github.io/Protfolio-Website/)
+<p align="center">
+  <a href="https://sujalpatil21.github.io/Protfolio-Website/">
+    <img src="preview.png" width="800">
+  </a>
+</p>
 
 
 ## 🔧 Technologies  
