@@ -10,7 +10,7 @@ Focused on backend development, system fundamentals, and real-world engineering 
 
 ## 🔧 Technologies  
 
-### Languages  
+### Language 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Backend Frameworks  
