@@ -4,7 +4,7 @@
 Backend-focused engineering student building scalable, production-grade systems.  
 Focused on backend development, system fundamentals, and real-world engineering practices.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-38bdf8?style=flat&logo=vercel&logoColor=white)](https://sujalpatil21.github.io/Protfolio-Website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-38bdf8?style=flat&logo=vercel&logoColor=white)](https://sujalpatil21.github.io/Portfolio-Website/)
 
 </div>
 
