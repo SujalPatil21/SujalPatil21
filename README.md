@@ -51,3 +51,7 @@ Focused on backend development, system fundamentals, and real-world engineering 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sujalpatil21@gmail.com)
 
 </div>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/SujalPatil21/SujalPatil21/blob/output/github-contribution-grid-snake.svg)
