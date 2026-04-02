@@ -1,12 +1,19 @@
 <div align="center">
 
-# Hi, I'm Sujal👋 
+# Hi, I'm Sujal 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Engineer;Spring+Boot+%7C+Java;Building+Scalable+Systems;DSA+%7C+System+Design+Focused" />
+</p>
+
 Backend-focused engineering student building scalable, production-grade systems.  
 Focused on backend development, system fundamentals, and real-world engineering practices.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-38bdf8?style=flat&logo=vercel&logoColor=white)](https://sujalpatil21.github.io/Portfolio-Website/)
 
 </div>
+
+---
 
 ## 🔧 Technologies  
 
@@ -29,7 +36,6 @@ Focused on backend development, system fundamentals, and real-world engineering 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
 
 ---
 
