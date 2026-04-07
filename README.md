@@ -2,12 +2,13 @@
 
 # Hi, I'm Sujal 👋
 
+Backend-focused engineering student building scalable, production-grade systems.  
+Focused on backend development, system fundamentals, and real-world engineering practices.
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Engineer;Spring+Boot+%7C+Java;Building+Scalable+Systems;DSA+%7C+System+Design+Focused" />
 </p>
 
-Backend-focused engineering student building scalable, production-grade systems.  
-Focused on backend development, system fundamentals, and real-world engineering practices.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-38bdf8?style=flat&logo=vercel&logoColor=white)](https://sujalpatil21.github.io/Portfolio-Website/)
 
