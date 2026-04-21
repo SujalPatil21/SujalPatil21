@@ -2,6 +2,10 @@
 
 # Hi, I'm Sujal 👋
 
+<p align="center">
+  <img src="assets/ichigo.gif" width="200"/>
+</p>
+
 Backend-focused engineering student building scalable, production-grade systems.  
 Focused on backend development, system fundamentals, and real-world engineering practices.
 
