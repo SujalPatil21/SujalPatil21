@@ -32,6 +32,19 @@ Focused on backend development, system fundamentals, and real-world engineering 
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
+### Machine Learning & Deep Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Machine Learning:** EDA, Data Preprocessing, Feature Engineering, Feature Selection, Regression, Classification, Clustering, Model Evaluation, Predictive Modeling
+
+**Deep Learning:** ANN, CNN, NLP, Transformers, Attention & Self-Attention
+
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -46,12 +59,16 @@ Focused on backend development, system fundamentals, and real-world engineering 
 
 ---
 
-## 🎯 Current Focus  
-- Backend development using Spring Boot  
-- REST API design and implementation  
-- Working with SQL and NoSQL databases  
-- Exploring event-driven systems with Kafka  
-- Writing clean, maintainable, and scalable backend code  
+## 🎯 Current Focus
+
+- Machine Learning and Deep Learning
+- Exploratory Data Analysis (EDA) and Data Preprocessing
+- Feature Engineering and Feature Selection
+- Supervised and Unsupervised Learning
+- Regression, Classification, and Clustering
+- ANN and CNN architectures
+- NLP and Transformer-based models
+- Building practical AI/ML projects and applying models to real-world problems
 
 ---
 
