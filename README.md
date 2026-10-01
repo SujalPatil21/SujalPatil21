@@ -32,18 +32,30 @@ Focused on backend development, system fundamentals, and real-world engineering 
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-### Machine Learning & Deep Learning
+### Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Data_Analysis-4B8BBE?style=flat)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-3776AB?style=flat)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF6F00?style=flat)
+![Feature Selection](https://img.shields.io/badge/Feature_Selection-2E8B57?style=flat)
+![Regression](https://img.shields.io/badge/Regression-8A2BE2?style=flat)
+![Classification](https://img.shields.io/badge/Classification-E34F26?style=flat)
+![Clustering](https://img.shields.io/badge/Clustering-7952B3?style=flat)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-008080?style=flat)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-DC143C?style=flat)
+
+### Deep Learning:  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**Machine Learning:** EDA, Data Preprocessing, Feature Engineering, Feature Selection, Regression, Classification, Clustering, Model Evaluation, Predictive Modeling
-
-**Deep Learning:** ANN, CNN, NLP, Transformers, Attention & Self-Attention
+![ANN](https://img.shields.io/badge/ANN-Neural_Networks-FF6F00?style=flat)
+![CNN](https://img.shields.io/badge/CNN-Computer_Vision-5C6BC0?style=flat)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-2E8B57?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-8A2BE2?style=flat)
+![Attention](https://img.shields.io/badge/Attention-Self_Attention-E34F26?style=flat)
 
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
