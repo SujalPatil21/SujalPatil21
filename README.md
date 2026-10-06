@@ -37,7 +37,6 @@ Focused on backend development, problem solving, and exploring machine learning 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-Data_Analysis-4B8BBE?style=flat)
 ![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-3776AB?style=flat)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF6F00?style=flat)
